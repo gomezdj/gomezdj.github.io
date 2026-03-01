@@ -1,33 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Educations on Daniel J. Gomez</title>
-    <link>http://localhost:1313/education/</link>
-    <description>Recent content in Educations on Daniel J. Gomez</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Master of Science, Biology</title>
-      <link>http://localhost:1313/education/ms-bio/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/ms-bio/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Principal Thesis Advisor:&lt;/strong&gt; Michael Snyder, PhD (Stanford University School of Medicine)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Research &amp;amp; Internships:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Graduate Student Intern (2023):&lt;/strong&gt; Snyder Lab, Stanford Cancer Institute (SCI), Stanford Medicine. Focused on multi-omics integration and precision oncology.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Snyder Lab (Department of Genetics):&lt;/strong&gt; Thesis concentration on Single-cell Spatial Mapping, Exercise Multiomics, and Biomedical Data Science.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spatial Biology Training:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Contextualizing Cellular Physiology Workshop:&lt;/strong&gt; NIH NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2nd Annual Spatial Biology Workshop:&lt;/strong&gt; Stanford School of Medicine, Department of Pathology (Professor Michael Angelo Lab). Specialized in spatially resolved transcriptomics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Structural Biology &amp;amp; Graduate Training:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bachelor of Science, Cell/Cellular and Molecular Biology</title>
-      <link>http://localhost:1313/education/bs-bio/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/bs-bio/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Research Experience:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Nicole Salazar Velmeshev:&lt;/strong&gt; Investigated Cancer Chemokine Signaling (G protein-coupled receptor superfamily).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Scott Roy:&lt;/strong&gt; Bioinformatics research focusing on SRSF proteins, alternative splicing, and intron evolution.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Honors Genetics:&lt;/strong&gt; Mentored by Prof. Dr. Michael Goldman.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Post-Baccalaureate &amp;amp; Specialized Coursework:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;University of Hawaii John A. Burns School of Medicine (Grade: A+):&lt;/strong&gt; Graduate research in Neurovirology and Immunohistochemistry (IHC) under Dr. Mukesh Kumar and Dr. Bruce Shiramizu.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Johns Hopkins University School of Medicine (Grade: A):&lt;/strong&gt; Translational Research in NeuroHIV and Mental Health (TRNAMH) with Prof. Dr. Amanda Brown.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;University of Hawaii at Manoa:&lt;/strong&gt; Molecular Cell Biology and Immunology under Dr. Paul Patek.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>High School Diploma</title>
-      <link>http://localhost:1313/education/hs/</link>
-      <pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/hs/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;MHETT Program (Technical Theatre and Design):&lt;/strong&gt;&#xA;Specialized in Theatre Design and Technology. Served as Technical Director, Stage Manager, Lighting Designer, and Director for various productions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Music &amp;amp; Arts:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Modesto High Orchestra:&lt;/strong&gt; 1st and 2nd Violin.&lt;/li&gt;&#xA;&lt;li&gt;Active participant in the local technical theatre and design community.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Educations on Daniel J. Gomez</title><link>https://gomezdj.github.io/education/</link><description>Recent content in Educations on Daniel J. Gomez</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gomezdj.github.io/education/index.xml" rel="self" type="application/rss+xml"/><item><title>Master of Science, Biology</title><link>https://gomezdj.github.io/education/ms-bio/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/education/ms-bio/</guid><description>&lt;p&gt;&lt;strong&gt;Principal Thesis Advisor:&lt;/strong&gt; Michael Snyder, PhD (Stanford University School of Medicine)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research &amp;amp; Internships:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Graduate Student Intern (2023):&lt;/strong&gt; Snyder Lab, Stanford Cancer Institute (SCI), Stanford Medicine. Focused on multi-omics integration and precision oncology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Snyder Lab (Department of Genetics):&lt;/strong&gt; Thesis concentration on Single-cell Spatial Mapping, Exercise Multiomics, and Biomedical Data Science.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Spatial Biology Training:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contextualizing Cellular Physiology Workshop:&lt;/strong&gt; NIH NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2nd Annual Spatial Biology Workshop:&lt;/strong&gt; Stanford School of Medicine, Department of Pathology (Professor Michael Angelo Lab). Specialized in spatially resolved transcriptomics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Structural Biology &amp;amp; Graduate Training:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Bachelor of Science, Cell/Cellular and Molecular Biology</title><link>https://gomezdj.github.io/education/bs-bio/</link><pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/education/bs-bio/</guid><description>&lt;p&gt;&lt;strong&gt;Research Experience:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Nicole Salazar Velmeshev:&lt;/strong&gt; Investigated Cancer Chemokine Signaling (G protein-coupled receptor superfamily).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Scott Roy:&lt;/strong&gt; Bioinformatics research focusing on SRSF proteins, alternative splicing, and intron evolution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Honors Genetics:&lt;/strong&gt; Mentored by Prof. Dr. Michael Goldman.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Post-Baccalaureate &amp;amp; Specialized Coursework:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;University of Hawaii John A. Burns School of Medicine (Grade: A+):&lt;/strong&gt; Graduate research in Neurovirology and Immunohistochemistry (IHC) under Dr. Mukesh Kumar and Dr. Bruce Shiramizu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Johns Hopkins University School of Medicine (Grade: A):&lt;/strong&gt; Translational Research in NeuroHIV and Mental Health (TRNAMH) with Prof. Dr. Amanda Brown.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;University of Hawaii at Manoa:&lt;/strong&gt; Molecular Cell Biology and Immunology under Dr. Paul Patek.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>High School Diploma</title><link>https://gomezdj.github.io/education/hs/</link><pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/education/hs/</guid><description>&lt;p&gt;&lt;strong&gt;MHETT Program (Technical Theatre and Design):&lt;/strong&gt;
+Specialized in Theatre Design and Technology. Served as Technical Director, Stage Manager, Lighting Designer, and Director for various productions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Music &amp;amp; Arts:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Modesto High Orchestra:&lt;/strong&gt; 1st and 2nd Violin.&lt;/li&gt;
+&lt;li&gt;Active participant in the local technical theatre and design community.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

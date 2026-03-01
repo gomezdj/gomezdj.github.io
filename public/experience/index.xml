@@ -1,60 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Experiences on Daniel J. Gomez</title>
-    <link>http://localhost:1313/experience/</link>
-    <description>Recent content in Experiences on Daniel J. Gomez</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Graduate Research Fellow</title>
-      <link>http://localhost:1313/experience/snyder-lab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/snyder-lab/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Leading the computational integration of multiple next-generation computational tools for spatial multi-omics analysis.&lt;/li&gt;&#xA;&lt;li&gt;Developing &lt;strong&gt;AI Virtual Cells&lt;/strong&gt; and digital twins for personalized clinical predictions.&lt;/li&gt;&#xA;&lt;li&gt;Generating &lt;strong&gt;Spatial Maps&lt;/strong&gt; for large-scale data in consortia HuBMAP, HTAN, and PsychENCODE.&lt;/li&gt;&#xA;&lt;li&gt;Analyzing single-cell genomics data to bridge molecular physiology and immunotherapy.&lt;/li&gt;&#xA;&lt;li&gt;Collaborating on &lt;strong&gt;MoTrPAC&lt;/strong&gt; and other large-scale multi-omics consortium projects.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Associate</title>
-      <link>http://localhost:1313/experience/csueb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/csueb/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Clinical Microbiology (BIO230):&lt;/strong&gt; Taught lab sections covering identification and culture techniques of microorganisms for health sciences and nursing majors.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Human Anatomy and Physiology I (BIO270):&lt;/strong&gt; Led lab analysis of skeletal, muscular, nervous, cardiovascular, and respiratory systems.&lt;/li&gt;&#xA;&lt;li&gt;Managed sections of ~20 university students and collaborated with faculty on curriculum delivery.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Lab Assistant II</title>
-      <link>http://localhost:1313/experience/roche/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/roche/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Antibody Formulation:&lt;/strong&gt; Assisted in molecular assay development and execution within the Roche Tissue Diagnostics (RTD) Global Operations.&lt;/li&gt;&#xA;&lt;li&gt;Supported the development of &lt;strong&gt;Companion Diagnostics&lt;/strong&gt; and IVD products for personalized healthcare.&lt;/li&gt;&#xA;&lt;li&gt;Executed quality control of lab reagents and performed precise buffer preparation for tissue diagnostic protocols.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Formulations Operator II</title>
-      <link>http://localhost:1313/experience/thermofisher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/thermofisher/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;TAPP Robotics Lab:&lt;/strong&gt; Operated high-throughput robotics including &lt;strong&gt;Hamilton Microlab Star, TECAN, and Bravo Velocity&lt;/strong&gt; for NGS panel manufacturing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oligonucleotide Production:&lt;/strong&gt; Manufactured custom primers and NGS panels following strict SOPs and batch records.&lt;/li&gt;&#xA;&lt;li&gt;Provided technical troubleshooting for automated lab equipment and evaluated non-routine test results to ensure product quality.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;associate-manufacturing-technician&#34;&gt;Associate Manufacturing Technician&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Primers Lab:&lt;/strong&gt; Manufacture Oligonucleotides/Custom Primers for use in the biotech industry by following established protocols and SOPs. Operate semi-automated and automated basic lab equipment. Regularly evaluate non-routine test results and either fail the product or allow it to continue through the production cycle.&lt;/li&gt;&#xA;&lt;li&gt;Understand scientific principles in order to problem solve, troubleshoot test results, evaluate alternative choices and exercise independent judgment in selecting the best solution. Provide multiple decision options and corresponding logic/data behind the decisions. Proactively identifies production problems.&lt;/li&gt;&#xA;&lt;li&gt;Provides feedback and contributes ideas and suggestions to new and/or improved lab techniques, protocols, processes, special handling of the product and equipment.&lt;/li&gt;&#xA;&lt;li&gt;Balance multiple tasks. Demonstrate knowledge in the use of basic lab techniques and basic computer knowledge. Demonstrate the ability to meet standards as defined by the manufacturing process.&lt;/li&gt;&#xA;&lt;li&gt;Inform appropriate people about problems/questions; be prepared to discuss problems/questions clearly. Work in a safe manner. Work with team members to overcome obstacles. Collaborate, support and consult with other team members as necessary. Give and receive constructive feedback&lt;/li&gt;&#xA;&lt;li&gt;Occupies a significant role in mainstream oligonucleotide production. The role requires the ability to exercise judgment within generally defined practices and policies in selecting methods and techniques for obtaining solutions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Research Assistant</title>
-      <link>http://localhost:1313/experience/jabsom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/jabsom/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;NeuroAIDS Research:&lt;/strong&gt; Conducted autoimmune molecular mechanism studies on chronic neuroinflammation in HAND patients under Dr. Bruce Shiramizu.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Advanced Microscopy:&lt;/strong&gt; Captured and analyzed data using Light, Fluorescent, and &lt;strong&gt;Confocal Microscopy&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technical Protocols:&lt;/strong&gt; Performed FFPE immunohistochemistry, RNA in situ hybridization (QuantiGene ISH), and PBMC transmigration assays in BBB models.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Assistant Researcher</title>
-      <link>http://localhost:1313/experience/ucsd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/ucsd/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cardiac Physiology:&lt;/strong&gt; Conducted &lt;em&gt;ex vivo&lt;/em&gt; heart perfusion studies in &lt;em&gt;Mus musculus&lt;/em&gt; utilizing the &lt;strong&gt;Langendorff heart apparatus&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Surgical Protocols:&lt;/strong&gt; Executed precise mouse surgical protocols for organ isolation and established &lt;strong&gt;Isolated Heart Stand&lt;/strong&gt; assays.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Metabolomics:&lt;/strong&gt; Performed advanced metabolic profiling of cardiomyocyte cell cultures using the &lt;strong&gt;Seahorse XF&lt;/strong&gt; Extracellular Flux Analyzer.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Biochemical Assays:&lt;/strong&gt; Evaluated cardiac response and signaling through somatostatin assays to study physiological health and performance.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Assistant</title>
-      <link>http://localhost:1313/experience/uhmanoa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/uhmanoa/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;General Chemistry I:&lt;/strong&gt; Lectured undergraduates on laboratory protocols, chemical concepts, and safety procedures.&lt;/li&gt;&#xA;&lt;li&gt;Managed reagent preparation, supervised lab sessions, and designed weekly quizzes to assess student progress.&lt;/li&gt;&#xA;&lt;li&gt;Responsible for grading lab reports and managing end-of-semester grade calculations for all students.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Experiences on Daniel J. Gomez</title><link>https://gomezdj.github.io/experience/</link><description>Recent content in Experiences on Daniel J. Gomez</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://gomezdj.github.io/experience/index.xml" rel="self" type="application/rss+xml"/><item><title>Graduate Research Fellow</title><link>https://gomezdj.github.io/experience/snyder-lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/snyder-lab/</guid><description>&lt;ul&gt;
+&lt;li&gt;Leading the computational integration of multiple next-generation computational tools for spatial multi-omics analysis.&lt;/li&gt;
+&lt;li&gt;Developing &lt;strong&gt;AI Virtual Cells&lt;/strong&gt; and digital twins for personalized clinical predictions.&lt;/li&gt;
+&lt;li&gt;Generating &lt;strong&gt;Spatial Maps&lt;/strong&gt; for large-scale data in consortia HuBMAP, HTAN, and PsychENCODE.&lt;/li&gt;
+&lt;li&gt;Analyzing single-cell genomics data to bridge molecular physiology and immunotherapy.&lt;/li&gt;
+&lt;li&gt;Collaborating on &lt;strong&gt;MoTrPAC&lt;/strong&gt; and other large-scale multi-omics consortium projects.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Teaching Associate</title><link>https://gomezdj.github.io/experience/csueb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/csueb/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clinical Microbiology (BIO230):&lt;/strong&gt; Taught lab sections covering identification and culture techniques of microorganisms for health sciences and nursing majors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human Anatomy and Physiology I (BIO270):&lt;/strong&gt; Led lab analysis of skeletal, muscular, nervous, cardiovascular, and respiratory systems.&lt;/li&gt;
+&lt;li&gt;Managed sections of ~20 university students and collaborated with faculty on curriculum delivery.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Lab Assistant II</title><link>https://gomezdj.github.io/experience/roche/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/roche/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Antibody Formulation:&lt;/strong&gt; Assisted in molecular assay development and execution within the Roche Tissue Diagnostics (RTD) Global Operations.&lt;/li&gt;
+&lt;li&gt;Supported the development of &lt;strong&gt;Companion Diagnostics&lt;/strong&gt; and IVD products for personalized healthcare.&lt;/li&gt;
+&lt;li&gt;Executed quality control of lab reagents and performed precise buffer preparation for tissue diagnostic protocols.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Formulations Operator II</title><link>https://gomezdj.github.io/experience/thermofisher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/thermofisher/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;TAPP Robotics Lab:&lt;/strong&gt; Operated high-throughput robotics including &lt;strong&gt;Hamilton Microlab Star, TECAN, and Bravo Velocity&lt;/strong&gt; for NGS panel manufacturing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oligonucleotide Production:&lt;/strong&gt; Manufactured custom primers and NGS panels following strict SOPs and batch records.&lt;/li&gt;
+&lt;li&gt;Provided technical troubleshooting for automated lab equipment and evaluated non-routine test results to ensure product quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id="associate-manufacturing-technician"&gt;Associate Manufacturing Technician&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Custom Primers Lab:&lt;/strong&gt; Manufacture Oligonucleotides/Custom Primers for use in the biotech industry by following established protocols and SOPs. Operate semi-automated and automated basic lab equipment. Regularly evaluate non-routine test results and either fail the product or allow it to continue through the production cycle.&lt;/li&gt;
+&lt;li&gt;Understand scientific principles in order to problem solve, troubleshoot test results, evaluate alternative choices and exercise independent judgment in selecting the best solution. Provide multiple decision options and corresponding logic/data behind the decisions. Proactively identifies production problems.&lt;/li&gt;
+&lt;li&gt;Provides feedback and contributes ideas and suggestions to new and/or improved lab techniques, protocols, processes, special handling of the product and equipment.&lt;/li&gt;
+&lt;li&gt;Balance multiple tasks. Demonstrate knowledge in the use of basic lab techniques and basic computer knowledge. Demonstrate the ability to meet standards as defined by the manufacturing process.&lt;/li&gt;
+&lt;li&gt;Inform appropriate people about problems/questions; be prepared to discuss problems/questions clearly. Work in a safe manner. Work with team members to overcome obstacles. Collaborate, support and consult with other team members as necessary. Give and receive constructive feedback&lt;/li&gt;
+&lt;li&gt;Occupies a significant role in mainstream oligonucleotide production. The role requires the ability to exercise judgment within generally defined practices and policies in selecting methods and techniques for obtaining solutions.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Research Assistant</title><link>https://gomezdj.github.io/experience/jabsom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/jabsom/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NeuroAIDS Research:&lt;/strong&gt; Conducted autoimmune molecular mechanism studies on chronic neuroinflammation in HAND patients under Dr. Bruce Shiramizu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Microscopy:&lt;/strong&gt; Captured and analyzed data using Light, Fluorescent, and &lt;strong&gt;Confocal Microscopy&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Protocols:&lt;/strong&gt; Performed FFPE immunohistochemistry, RNA in situ hybridization (QuantiGene ISH), and PBMC transmigration assays in BBB models.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Assistant Researcher</title><link>https://gomezdj.github.io/experience/ucsd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/ucsd/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cardiac Physiology:&lt;/strong&gt; Conducted &lt;em&gt;ex vivo&lt;/em&gt; heart perfusion studies in &lt;em&gt;Mus musculus&lt;/em&gt; utilizing the &lt;strong&gt;Langendorff heart apparatus&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surgical Protocols:&lt;/strong&gt; Executed precise mouse surgical protocols for organ isolation and established &lt;strong&gt;Isolated Heart Stand&lt;/strong&gt; assays.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Metabolomics:&lt;/strong&gt; Performed advanced metabolic profiling of cardiomyocyte cell cultures using the &lt;strong&gt;Seahorse XF&lt;/strong&gt; Extracellular Flux Analyzer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biochemical Assays:&lt;/strong&gt; Evaluated cardiac response and signaling through somatostatin assays to study physiological health and performance.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Teaching Assistant</title><link>https://gomezdj.github.io/experience/uhmanoa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/uhmanoa/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;General Chemistry I:&lt;/strong&gt; Lectured undergraduates on laboratory protocols, chemical concepts, and safety procedures.&lt;/li&gt;
+&lt;li&gt;Managed reagent preparation, supervised lab sessions, and designed weekly quizzes to assess student progress.&lt;/li&gt;
+&lt;li&gt;Responsible for grading lab reports and managing end-of-semester grade calculations for all students.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

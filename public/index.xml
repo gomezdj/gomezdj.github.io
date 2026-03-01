@@ -1,110 +1,118 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Precision Bioinformatics &amp; Clinical Computing on Daniel J. Gomez</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Precision Bioinformatics &amp; Clinical Computing on Daniel J. Gomez</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Graduate Research Fellow</title>
-      <link>http://localhost:1313/experience/snyder-lab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/snyder-lab/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Leading the computational integration of multiple next-generation computational tools for spatial multi-omics analysis.&lt;/li&gt;&#xA;&lt;li&gt;Developing &lt;strong&gt;AI Virtual Cells&lt;/strong&gt; and digital twins for personalized clinical predictions.&lt;/li&gt;&#xA;&lt;li&gt;Generating &lt;strong&gt;Spatial Maps&lt;/strong&gt; for large-scale data in consortia HuBMAP, HTAN, and PsychENCODE.&lt;/li&gt;&#xA;&lt;li&gt;Analyzing single-cell genomics data to bridge molecular physiology and immunotherapy.&lt;/li&gt;&#xA;&lt;li&gt;Collaborating on &lt;strong&gt;MoTrPAC&lt;/strong&gt; and other large-scale multi-omics consortium projects.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Associate</title>
-      <link>http://localhost:1313/experience/csueb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/csueb/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Clinical Microbiology (BIO230):&lt;/strong&gt; Taught lab sections covering identification and culture techniques of microorganisms for health sciences and nursing majors.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Human Anatomy and Physiology I (BIO270):&lt;/strong&gt; Led lab analysis of skeletal, muscular, nervous, cardiovascular, and respiratory systems.&lt;/li&gt;&#xA;&lt;li&gt;Managed sections of ~20 university students and collaborated with faculty on curriculum delivery.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Lab Assistant II</title>
-      <link>http://localhost:1313/experience/roche/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/roche/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Antibody Formulation:&lt;/strong&gt; Assisted in molecular assay development and execution within the Roche Tissue Diagnostics (RTD) Global Operations.&lt;/li&gt;&#xA;&lt;li&gt;Supported the development of &lt;strong&gt;Companion Diagnostics&lt;/strong&gt; and IVD products for personalized healthcare.&lt;/li&gt;&#xA;&lt;li&gt;Executed quality control of lab reagents and performed precise buffer preparation for tissue diagnostic protocols.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Formulations Operator II</title>
-      <link>http://localhost:1313/experience/thermofisher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/thermofisher/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;TAPP Robotics Lab:&lt;/strong&gt; Operated high-throughput robotics including &lt;strong&gt;Hamilton Microlab Star, TECAN, and Bravo Velocity&lt;/strong&gt; for NGS panel manufacturing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oligonucleotide Production:&lt;/strong&gt; Manufactured custom primers and NGS panels following strict SOPs and batch records.&lt;/li&gt;&#xA;&lt;li&gt;Provided technical troubleshooting for automated lab equipment and evaluated non-routine test results to ensure product quality.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;associate-manufacturing-technician&#34;&gt;Associate Manufacturing Technician&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom Primers Lab:&lt;/strong&gt; Manufacture Oligonucleotides/Custom Primers for use in the biotech industry by following established protocols and SOPs. Operate semi-automated and automated basic lab equipment. Regularly evaluate non-routine test results and either fail the product or allow it to continue through the production cycle.&lt;/li&gt;&#xA;&lt;li&gt;Understand scientific principles in order to problem solve, troubleshoot test results, evaluate alternative choices and exercise independent judgment in selecting the best solution. Provide multiple decision options and corresponding logic/data behind the decisions. Proactively identifies production problems.&lt;/li&gt;&#xA;&lt;li&gt;Provides feedback and contributes ideas and suggestions to new and/or improved lab techniques, protocols, processes, special handling of the product and equipment.&lt;/li&gt;&#xA;&lt;li&gt;Balance multiple tasks. Demonstrate knowledge in the use of basic lab techniques and basic computer knowledge. Demonstrate the ability to meet standards as defined by the manufacturing process.&lt;/li&gt;&#xA;&lt;li&gt;Inform appropriate people about problems/questions; be prepared to discuss problems/questions clearly. Work in a safe manner. Work with team members to overcome obstacles. Collaborate, support and consult with other team members as necessary. Give and receive constructive feedback&lt;/li&gt;&#xA;&lt;li&gt;Occupies a significant role in mainstream oligonucleotide production. The role requires the ability to exercise judgment within generally defined practices and policies in selecting methods and techniques for obtaining solutions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Research Assistant</title>
-      <link>http://localhost:1313/experience/jabsom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/jabsom/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;NeuroAIDS Research:&lt;/strong&gt; Conducted autoimmune molecular mechanism studies on chronic neuroinflammation in HAND patients under Dr. Bruce Shiramizu.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Advanced Microscopy:&lt;/strong&gt; Captured and analyzed data using Light, Fluorescent, and &lt;strong&gt;Confocal Microscopy&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technical Protocols:&lt;/strong&gt; Performed FFPE immunohistochemistry, RNA in situ hybridization (QuantiGene ISH), and PBMC transmigration assays in BBB models.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Assistant Researcher</title>
-      <link>http://localhost:1313/experience/ucsd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/ucsd/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cardiac Physiology:&lt;/strong&gt; Conducted &lt;em&gt;ex vivo&lt;/em&gt; heart perfusion studies in &lt;em&gt;Mus musculus&lt;/em&gt; utilizing the &lt;strong&gt;Langendorff heart apparatus&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Surgical Protocols:&lt;/strong&gt; Executed precise mouse surgical protocols for organ isolation and established &lt;strong&gt;Isolated Heart Stand&lt;/strong&gt; assays.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Metabolomics:&lt;/strong&gt; Performed advanced metabolic profiling of cardiomyocyte cell cultures using the &lt;strong&gt;Seahorse XF&lt;/strong&gt; Extracellular Flux Analyzer.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Biochemical Assays:&lt;/strong&gt; Evaluated cardiac response and signaling through somatostatin assays to study physiological health and performance.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Teaching Assistant</title>
-      <link>http://localhost:1313/experience/uhmanoa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/uhmanoa/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;General Chemistry I:&lt;/strong&gt; Lectured undergraduates on laboratory protocols, chemical concepts, and safety procedures.&lt;/li&gt;&#xA;&lt;li&gt;Managed reagent preparation, supervised lab sessions, and designed weekly quizzes to assess student progress.&lt;/li&gt;&#xA;&lt;li&gt;Responsible for grading lab reports and managing end-of-semester grade calculations for all students.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Master of Science, Biology</title>
-      <link>http://localhost:1313/education/ms-bio/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/ms-bio/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Principal Thesis Advisor:&lt;/strong&gt; Michael Snyder, PhD (Stanford University School of Medicine)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Research &amp;amp; Internships:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Graduate Student Intern (2023):&lt;/strong&gt; Snyder Lab, Stanford Cancer Institute (SCI), Stanford Medicine. Focused on multi-omics integration and precision oncology.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Snyder Lab (Department of Genetics):&lt;/strong&gt; Thesis concentration on Single-cell Spatial Mapping, Exercise Multiomics, and Biomedical Data Science.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Spatial Biology Training:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Contextualizing Cellular Physiology Workshop:&lt;/strong&gt; NIH NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2nd Annual Spatial Biology Workshop:&lt;/strong&gt; Stanford School of Medicine, Department of Pathology (Professor Michael Angelo Lab). Specialized in spatially resolved transcriptomics.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Structural Biology &amp;amp; Graduate Training:&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Untangling the Microscopic World: Focus on the Dysfunctional Golgi Apparatus</title>
-      <link>http://localhost:1313/publications/2023-cells-conf/</link>
-      <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2023-cells-conf/</guid>
-      <description>A structural biology perspective on Golgi dysfunction, utilizing microscopy visualization techniques.</description>
-    </item>
-    <item>
-      <title>Bachelor of Science, Cell/Cellular and Molecular Biology</title>
-      <link>http://localhost:1313/education/bs-bio/</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/bs-bio/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Research Experience:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Nicole Salazar Velmeshev:&lt;/strong&gt; Investigated Cancer Chemokine Signaling (G protein-coupled receptor superfamily).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Scott Roy:&lt;/strong&gt; Bioinformatics research focusing on SRSF proteins, alternative splicing, and intron evolution.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Honors Genetics:&lt;/strong&gt; Mentored by Prof. Dr. Michael Goldman.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Post-Baccalaureate &amp;amp; Specialized Coursework:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;University of Hawaii John A. Burns School of Medicine (Grade: A+):&lt;/strong&gt; Graduate research in Neurovirology and Immunohistochemistry (IHC) under Dr. Mukesh Kumar and Dr. Bruce Shiramizu.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Johns Hopkins University School of Medicine (Grade: A):&lt;/strong&gt; Translational Research in NeuroHIV and Mental Health (TRNAMH) with Prof. Dr. Amanda Brown.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;University of Hawaii at Manoa:&lt;/strong&gt; Molecular Cell Biology and Immunology under Dr. Paul Patek.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Co-Infection and Cancer: Host-Pathogen Interaction...</title>
-      <link>http://localhost:1313/publications/2022-mdpi/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2022-mdpi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>High School Diploma</title>
-      <link>http://localhost:1313/education/hs/</link>
-      <pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/education/hs/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;MHETT Program (Technical Theatre and Design):&lt;/strong&gt;&#xA;Specialized in Theatre Design and Technology. Served as Technical Director, Stage Manager, Lighting Designer, and Director for various productions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Music &amp;amp; Arts:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Modesto High Orchestra:&lt;/strong&gt; 1st and 2nd Violin.&lt;/li&gt;&#xA;&lt;li&gt;Active participant in the local technical theatre and design community.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/achievements/achievements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/achievements/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;row g-4&amp;quot;&amp;gt;&#xA;  &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;&#xA;    &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-certificate text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Advanced Certifications&amp;lt;/h4&amp;gt;&#xA;    &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2025-2026&amp;lt;/span&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;AI/ML Fundamentals in Precision Medicine&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford University School of Medicine&amp;lt;/p&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2024&amp;lt;/span&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;Fundamentals of Data Science in Precision Medicine and Cloud Computing&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2023&amp;lt;/span&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;SSRL RapiData: X-Ray Diffraction&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;SLAC National Accelerator Laboratory&amp;lt;/p&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford Data Ocean&amp;lt;/p&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;    &amp;lt;/div&amp;gt;&#xA;  &amp;lt;/div&amp;gt;&#xA;&#xA;  &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;&#xA;    &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-microphone-alt text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Invited Talks&amp;lt;/h4&amp;gt;&#xA;    &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;International Webinar on Cancer Research&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Human Retroviruses in Neuro-Oncology&amp;lt;/p&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Guest Speaker (2022)&amp;lt;/span&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;MDPI Cells 2023 Conference&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Golgi Apparatus Dysfunction in Cancer&amp;lt;/p&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Conference Speaker (2023)&amp;lt;/span&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;CSU Northridge Seminar&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Data-Driven Discovery in Oncology&amp;lt;/p&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Invited Speaker (2022)&amp;lt;/span&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;    &amp;lt;/div&amp;gt;&#xA;  &amp;lt;/div&amp;gt;&#xA;&amp;lt;/div&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Precision Bioinformatics &amp; Clinical Computing on Daniel J. Gomez</title><link>https://gomezdj.github.io/</link><description>Recent content in Precision Bioinformatics &amp; Clinical Computing on Daniel J. Gomez</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gomezdj.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Graduate Research Fellow</title><link>https://gomezdj.github.io/experience/snyder-lab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/snyder-lab/</guid><description>&lt;ul&gt;
+&lt;li&gt;Leading the computational integration of multiple next-generation computational tools for spatial multi-omics analysis.&lt;/li&gt;
+&lt;li&gt;Developing &lt;strong&gt;AI Virtual Cells&lt;/strong&gt; and digital twins for personalized clinical predictions.&lt;/li&gt;
+&lt;li&gt;Generating &lt;strong&gt;Spatial Maps&lt;/strong&gt; for large-scale data in consortia HuBMAP, HTAN, and PsychENCODE.&lt;/li&gt;
+&lt;li&gt;Analyzing single-cell genomics data to bridge molecular physiology and immunotherapy.&lt;/li&gt;
+&lt;li&gt;Collaborating on &lt;strong&gt;MoTrPAC&lt;/strong&gt; and other large-scale multi-omics consortium projects.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Teaching Associate</title><link>https://gomezdj.github.io/experience/csueb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/csueb/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clinical Microbiology (BIO230):&lt;/strong&gt; Taught lab sections covering identification and culture techniques of microorganisms for health sciences and nursing majors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human Anatomy and Physiology I (BIO270):&lt;/strong&gt; Led lab analysis of skeletal, muscular, nervous, cardiovascular, and respiratory systems.&lt;/li&gt;
+&lt;li&gt;Managed sections of ~20 university students and collaborated with faculty on curriculum delivery.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Lab Assistant II</title><link>https://gomezdj.github.io/experience/roche/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/roche/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Antibody Formulation:&lt;/strong&gt; Assisted in molecular assay development and execution within the Roche Tissue Diagnostics (RTD) Global Operations.&lt;/li&gt;
+&lt;li&gt;Supported the development of &lt;strong&gt;Companion Diagnostics&lt;/strong&gt; and IVD products for personalized healthcare.&lt;/li&gt;
+&lt;li&gt;Executed quality control of lab reagents and performed precise buffer preparation for tissue diagnostic protocols.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Formulations Operator II</title><link>https://gomezdj.github.io/experience/thermofisher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/thermofisher/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;TAPP Robotics Lab:&lt;/strong&gt; Operated high-throughput robotics including &lt;strong&gt;Hamilton Microlab Star, TECAN, and Bravo Velocity&lt;/strong&gt; for NGS panel manufacturing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oligonucleotide Production:&lt;/strong&gt; Manufactured custom primers and NGS panels following strict SOPs and batch records.&lt;/li&gt;
+&lt;li&gt;Provided technical troubleshooting for automated lab equipment and evaluated non-routine test results to ensure product quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h2 id="associate-manufacturing-technician"&gt;Associate Manufacturing Technician&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Custom Primers Lab:&lt;/strong&gt; Manufacture Oligonucleotides/Custom Primers for use in the biotech industry by following established protocols and SOPs. Operate semi-automated and automated basic lab equipment. Regularly evaluate non-routine test results and either fail the product or allow it to continue through the production cycle.&lt;/li&gt;
+&lt;li&gt;Understand scientific principles in order to problem solve, troubleshoot test results, evaluate alternative choices and exercise independent judgment in selecting the best solution. Provide multiple decision options and corresponding logic/data behind the decisions. Proactively identifies production problems.&lt;/li&gt;
+&lt;li&gt;Provides feedback and contributes ideas and suggestions to new and/or improved lab techniques, protocols, processes, special handling of the product and equipment.&lt;/li&gt;
+&lt;li&gt;Balance multiple tasks. Demonstrate knowledge in the use of basic lab techniques and basic computer knowledge. Demonstrate the ability to meet standards as defined by the manufacturing process.&lt;/li&gt;
+&lt;li&gt;Inform appropriate people about problems/questions; be prepared to discuss problems/questions clearly. Work in a safe manner. Work with team members to overcome obstacles. Collaborate, support and consult with other team members as necessary. Give and receive constructive feedback&lt;/li&gt;
+&lt;li&gt;Occupies a significant role in mainstream oligonucleotide production. The role requires the ability to exercise judgment within generally defined practices and policies in selecting methods and techniques for obtaining solutions.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Research Assistant</title><link>https://gomezdj.github.io/experience/jabsom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/jabsom/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NeuroAIDS Research:&lt;/strong&gt; Conducted autoimmune molecular mechanism studies on chronic neuroinflammation in HAND patients under Dr. Bruce Shiramizu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Microscopy:&lt;/strong&gt; Captured and analyzed data using Light, Fluorescent, and &lt;strong&gt;Confocal Microscopy&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Protocols:&lt;/strong&gt; Performed FFPE immunohistochemistry, RNA in situ hybridization (QuantiGene ISH), and PBMC transmigration assays in BBB models.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Assistant Researcher</title><link>https://gomezdj.github.io/experience/ucsd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/ucsd/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cardiac Physiology:&lt;/strong&gt; Conducted &lt;em&gt;ex vivo&lt;/em&gt; heart perfusion studies in &lt;em&gt;Mus musculus&lt;/em&gt; utilizing the &lt;strong&gt;Langendorff heart apparatus&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surgical Protocols:&lt;/strong&gt; Executed precise mouse surgical protocols for organ isolation and established &lt;strong&gt;Isolated Heart Stand&lt;/strong&gt; assays.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Metabolomics:&lt;/strong&gt; Performed advanced metabolic profiling of cardiomyocyte cell cultures using the &lt;strong&gt;Seahorse XF&lt;/strong&gt; Extracellular Flux Analyzer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biochemical Assays:&lt;/strong&gt; Evaluated cardiac response and signaling through somatostatin assays to study physiological health and performance.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Teaching Assistant</title><link>https://gomezdj.github.io/experience/uhmanoa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/experience/uhmanoa/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;General Chemistry I:&lt;/strong&gt; Lectured undergraduates on laboratory protocols, chemical concepts, and safety procedures.&lt;/li&gt;
+&lt;li&gt;Managed reagent preparation, supervised lab sessions, and designed weekly quizzes to assess student progress.&lt;/li&gt;
+&lt;li&gt;Responsible for grading lab reports and managing end-of-semester grade calculations for all students.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Master of Science, Biology</title><link>https://gomezdj.github.io/education/ms-bio/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/education/ms-bio/</guid><description>&lt;p&gt;&lt;strong&gt;Principal Thesis Advisor:&lt;/strong&gt; Michael Snyder, PhD (Stanford University School of Medicine)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research &amp;amp; Internships:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Graduate Student Intern (2023):&lt;/strong&gt; Snyder Lab, Stanford Cancer Institute (SCI), Stanford Medicine. Focused on multi-omics integration and precision oncology.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Snyder Lab (Department of Genetics):&lt;/strong&gt; Thesis concentration on Single-cell Spatial Mapping, Exercise Multiomics, and Biomedical Data Science.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Spatial Biology Training:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contextualizing Cellular Physiology Workshop:&lt;/strong&gt; NIH NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2nd Annual Spatial Biology Workshop:&lt;/strong&gt; Stanford School of Medicine, Department of Pathology (Professor Michael Angelo Lab). Specialized in spatially resolved transcriptomics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Structural Biology &amp;amp; Graduate Training:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Untangling the Microscopic World: Focus on the Dysfunctional Golgi Apparatus</title><link>https://gomezdj.github.io/publications/2023-cells-conf/</link><pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/publications/2023-cells-conf/</guid><description>A structural biology perspective on Golgi dysfunction, utilizing microscopy visualization techniques.</description></item><item><title>Bachelor of Science, Cell/Cellular and Molecular Biology</title><link>https://gomezdj.github.io/education/bs-bio/</link><pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/education/bs-bio/</guid><description>&lt;p&gt;&lt;strong&gt;Research Experience:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Nicole Salazar Velmeshev:&lt;/strong&gt; Investigated Cancer Chemokine Signaling (G protein-coupled receptor superfamily).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lab of Prof. Dr. Scott Roy:&lt;/strong&gt; Bioinformatics research focusing on SRSF proteins, alternative splicing, and intron evolution.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Honors Genetics:&lt;/strong&gt; Mentored by Prof. Dr. Michael Goldman.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Post-Baccalaureate &amp;amp; Specialized Coursework:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;University of Hawaii John A. Burns School of Medicine (Grade: A+):&lt;/strong&gt; Graduate research in Neurovirology and Immunohistochemistry (IHC) under Dr. Mukesh Kumar and Dr. Bruce Shiramizu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Johns Hopkins University School of Medicine (Grade: A):&lt;/strong&gt; Translational Research in NeuroHIV and Mental Health (TRNAMH) with Prof. Dr. Amanda Brown.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;University of Hawaii at Manoa:&lt;/strong&gt; Molecular Cell Biology and Immunology under Dr. Paul Patek.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Co-Infection and Cancer: Host-Pathogen Interaction...</title><link>https://gomezdj.github.io/publications/2022-mdpi/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/publications/2022-mdpi/</guid><description/></item><item><title>High School Diploma</title><link>https://gomezdj.github.io/education/hs/</link><pubDate>Thu, 07 Jun 2007 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/education/hs/</guid><description>&lt;p&gt;&lt;strong&gt;MHETT Program (Technical Theatre and Design):&lt;/strong&gt;
+Specialized in Theatre Design and Technology. Served as Technical Director, Stage Manager, Lighting Designer, and Director for various productions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Music &amp;amp; Arts:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Modesto High Orchestra:&lt;/strong&gt; 1st and 2nd Violin.&lt;/li&gt;
+&lt;li&gt;Active participant in the local technical theatre and design community.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title/><link>https://gomezdj.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/about/</guid><description/></item><item><title/><link>https://gomezdj.github.io/achievements/achievements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/achievements/achievements/</guid><description>&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;row g-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-certificate text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Advanced Certifications&amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2025-2026&amp;lt;/span&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;AI/ML Fundamentals in Precision Medicine&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford University School of Medicine&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2024&amp;lt;/span&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;Fundamentals of Data Science in Precision Medicine and Cloud Computing&amp;lt;/h6&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2023&amp;lt;/span&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;SSRL RapiData: X-Ray Diffraction&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;SLAC National Accelerator Laboratory&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford Data Ocean&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-microphone-alt text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Invited Talks&amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;International Webinar on Cancer Research&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Human Retroviruses in Neuro-Oncology&amp;lt;/p&amp;gt;
+ &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Guest Speaker (2022)&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;MDPI Cells 2023 Conference&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Golgi Apparatus Dysfunction in Cancer&amp;lt;/p&amp;gt;
+ &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Conference Speaker (2023)&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;CSU Northridge Seminar&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Data-Driven Discovery in Oncology&amp;lt;/p&amp;gt;
+ &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Invited Speaker (2022)&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item></channel></rss>

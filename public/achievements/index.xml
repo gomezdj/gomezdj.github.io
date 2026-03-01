@@ -1,18 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Achievements on Daniel J. Gomez</title>
-    <link>http://localhost:1313/achievements/</link>
-    <description>Recent content in Achievements on Daniel J. Gomez</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/achievements/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/achievements/achievements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/achievements/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;row g-4&amp;quot;&amp;gt;&#xA;  &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;&#xA;    &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-certificate text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Advanced Certifications&amp;lt;/h4&amp;gt;&#xA;    &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2025-2026&amp;lt;/span&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;AI/ML Fundamentals in Precision Medicine&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford University School of Medicine&amp;lt;/p&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2024&amp;lt;/span&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;Fundamentals of Data Science in Precision Medicine and Cloud Computing&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2023&amp;lt;/span&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;SSRL RapiData: X-Ray Diffraction&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;SLAC National Accelerator Laboratory&amp;lt;/p&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford Data Ocean&amp;lt;/p&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;    &amp;lt;/div&amp;gt;&#xA;  &amp;lt;/div&amp;gt;&#xA;&#xA;  &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;&#xA;    &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-microphone-alt text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Invited Talks&amp;lt;/h4&amp;gt;&#xA;    &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;International Webinar on Cancer Research&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Human Retroviruses in Neuro-Oncology&amp;lt;/p&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Guest Speaker (2022)&amp;lt;/span&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;MDPI Cells 2023 Conference&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Golgi Apparatus Dysfunction in Cancer&amp;lt;/p&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Conference Speaker (2023)&amp;lt;/span&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;      &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;&#xA;        &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;CSU Northridge Seminar&amp;lt;/h6&amp;gt;&#xA;        &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Data-Driven Discovery in Oncology&amp;lt;/p&amp;gt;&#xA;        &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Invited Speaker (2022)&amp;lt;/span&amp;gt;&#xA;      &amp;lt;/div&amp;gt;&#xA;    &amp;lt;/div&amp;gt;&#xA;  &amp;lt;/div&amp;gt;&#xA;&amp;lt;/div&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Achievements on Daniel J. Gomez</title><link>https://gomezdj.github.io/achievements/</link><description>Recent content in Achievements on Daniel J. Gomez</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://gomezdj.github.io/achievements/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://gomezdj.github.io/achievements/achievements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gomezdj.github.io/achievements/achievements/</guid><description>&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;row g-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-certificate text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Advanced Certifications&amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2025-2026&amp;lt;/span&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;AI/ML Fundamentals in Precision Medicine&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford University School of Medicine&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2024&amp;lt;/span&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;Fundamentals of Data Science in Precision Medicine and Cloud Computing&amp;lt;/h6&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;badge bg-cardinal mb-2&amp;quot;&amp;gt;2023&amp;lt;/span&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;SSRL RapiData: X-Ray Diffraction&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;SLAC National Accelerator Laboratory&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-0&amp;quot;&amp;gt;Stanford Data Ocean&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;col-lg-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;text-white mb-4&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;fas fa-microphone-alt text-cardinal me-2&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;Invited Talks&amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-list&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;International Webinar on Cancer Research&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Human Retroviruses in Neuro-Oncology&amp;lt;/p&amp;gt;
+ &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Guest Speaker (2022)&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;MDPI Cells 2023 Conference&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Golgi Apparatus Dysfunction in Cancer&amp;lt;/p&amp;gt;
+ &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Conference Speaker (2023)&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;achievement-item p-3 mb-3 rounded shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h6 class=&amp;quot;text-white fw-bold mb-1&amp;quot;&amp;gt;CSU Northridge Seminar&amp;lt;/h6&amp;gt;
+ &amp;lt;p class=&amp;quot;small text-secondary mb-2&amp;quot;&amp;gt;Topic: Data-Driven Discovery in Oncology&amp;lt;/p&amp;gt;
+ &amp;lt;span class=&amp;quot;text-cardinal small fw-bold&amp;quot;&amp;gt;Invited Speaker (2022)&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item></channel></rss>
