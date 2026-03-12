@@ -14,6 +14,7 @@ theme = "hugo-profile"
     # --- Theme Features ---
     fixedNavbar = true
     showScrollToTop = true
+    favicon = true
     
     # --- Contact Info ---
     email = "d.gomez@me.com"
@@ -28,7 +29,8 @@ theme = "hugo-profile"
     instagram = "molecular.jigsaw.puzzle"
     facebook = "daniel.j.gomez88"
     scholar = "So6NDwMAAAAJ" # Your Google Scholar ID
-
+    resume_url = "/daniel_gomez_cv.pdf"
+    
     # --- Social Icons Array (Used by some theme templates for loops) ---
     [[params.social]]
         icon = "fab fa-google"
