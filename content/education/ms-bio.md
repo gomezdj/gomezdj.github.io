@@ -17,8 +17,8 @@ date: 2025-05-16
 * **2nd Annual Spatial Biology Workshop:** Stanford School of Medicine, Department of Pathology (Professor Michael Angelo Lab). Specialized in spatially resolved transcriptomics.
 
 **Structural Biology & Graduate Training:**
-* **Stanford School of Medicine (Kasper Rogala Lab):** Internship in Structural Biology* 
+* **Kasper Rogala Lab (Department of Structural Biology, Department of Chemical and Systems Biology):** Internship in Structural Biology* 
 **Stanford University (SSRL):** RapiData 2023. Specialized in macromolecular X-Ray diffraction and data processing at synchrotron beamlines.
 * **Stanford-SLAC Cryo-EM Center (S2C2):** Single Particle Analysis (SPA) and Cryo-ET image processing (Relion, CryoSPARC).
 
-**Core Competencies:** Systems Biology, AI/ML in Precision Medicine, Spatially Resolved Technologies, Pathology, Genomics, Structural Bioengineering, CRISPR/Cas Systems, and Cancer.
+**Core Competencies:** Systems Biology, AI/ML in Precision Medicine, Spatially Resolved Technologies, Pathology, Genomics, Structural Biology, Bioengineering, CRISPR/Cas Systems, and Cancer.
