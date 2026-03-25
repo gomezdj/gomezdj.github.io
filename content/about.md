@@ -9,7 +9,7 @@ draft: false
 
 ## About
 
-I’m **gomezdj**, a **precision bioinformatician and clinical investigator** working at the intersection of genomics, translational research, and patient-centered clinical studies. My work focuses on building analytically rigorous, reproducible methods that turn complex molecular and clinical data into evidence that can inform real-world decisions.
+I’m **Daniel Gomez**, a **precision bioinformatician and clinical investigator** working at the intersection of genomics, translational research, and patient-centered clinical studies. My work focuses on building analytically rigorous, reproducible methods that turn complex molecular and clinical data into evidence that can inform real-world decisions.
 
 ### What I do
 - **Precision genomics & multi-omics analysis:** variant interpretation, cohort-scale analyses, and clinically relevant biomarker discovery
