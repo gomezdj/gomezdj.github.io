@@ -22,7 +22,7 @@ python -c "import deepcell; print(deepcell.__version__)"
 If you need GPU support, use the official Docker image from the Van Valen Lab after installing CUDA and Docker with NVIDIA GPU support:
 
 ```bash
-docker run --gpus '"device=0"' -it --rm \
+docker run --gpus all -it --rm \
   -p 8888:8888 \
   -v "$PWD/notebooks:/notebooks" \
   -v "$PWD/data:/data" \
