@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Precision bioinformatician and clinical investigator"
+description: "Precision bioinformatician"
 slug: "about"
 date: 2026-03-25
 lastmod: 2026-03-25
