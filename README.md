@@ -6,11 +6,11 @@ This repository contains the source code for my professional portfolio, hosted a
 
 I am a Graduate Research Fellow in the Snyder Lab at Stanford Genetics. My work focuses on:     
 
-Digital Twins & AI Virtual Cells  
+Digital Twins & AI Virtual Cells and Virtual Tissue
 
 Spatial Multi-omics & Single-cell Transcriptomics
 
-Interorgan Communication Maps (MoTrPAC, HuBMAP, HTAN)
+Interorgan Communication Maps (MoTrPAC, HuBMAP, HTAN, HCA)
 
 ## 🛠 Tech Stack
 
