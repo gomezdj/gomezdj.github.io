@@ -1,1 +1,1 @@
-Academic Portfolio [website](https://djgomez.org) for Daniel J. Gomez. 
+Academic Portfolio [website](https://dgomez.org) for Daniel J. Gomez. 
